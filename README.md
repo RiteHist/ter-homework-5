@@ -59,3 +59,15 @@
 ## Задание 3
 
 [Ссылка на pull request](https://github.com/RiteHist/ter-homework-5/pull/1)
+
+## Задание 4
+
+[Ссылка на файл с переменными](https://github.com/RiteHist/ter-homework-5/blob/terraform-05/src/validation_vars.tf)
+
+Проверка через `terraform console` с корректными значениями переменных:
+
+![alt text](https://github.com/RiteHist/ter-homework-5/blob/main/media/10.PNG?raw=true)
+
+Проверка через `terraform console` с заданными неверными значениями переменных:
+
+![alt text](https://github.com/RiteHist/ter-homework-5/blob/main/media/11.PNG?raw=true)
