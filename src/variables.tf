@@ -20,13 +20,6 @@ variable "env_names" {
   default = ["develop", "stage"]
 }
 
-variable "remote_modules" {
-  type = map(string)
-  default = {
-    "yandex_compute_instance" = "git::https://github.com/udjin10/yandex_compute_instance.git?ref=main"
-  }
-}
-
 variable "zones" {
   type = list(string)
   default = ["ru-central1-a", "ru-central1-b", "ru-central1-d"]
