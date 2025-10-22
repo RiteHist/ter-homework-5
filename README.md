@@ -55,3 +55,7 @@
 Разблокировка state:
 
 ![alt text](https://github.com/RiteHist/ter-homework-5/blob/main/media/9.PNG?raw=true)
+
+## Задание 3
+
+[Ссылка на pull request](https://github.com/RiteHist/ter-homework-5/pull/1)
