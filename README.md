@@ -40,7 +40,7 @@
 
 ![alt text](https://github.com/RiteHist/ter-homework-5/blob/main/media/5.PNG?raw=true)
 
-Переход с local бэкэнда на s3:
+Переход с local бэкэнда на s3 через комманду `terraform init -backend-config="access_key=..." -backend-config="secret_key=..."`:
 
 ![alt text](https://github.com/RiteHist/ter-homework-5/blob/main/media/6.PNG?raw=true)
 
